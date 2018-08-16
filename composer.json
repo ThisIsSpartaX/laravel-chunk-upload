@@ -1,0 +1,22 @@
+{
+  "name": "ruslone/laravel-chunk-upload",
+  "description": "Service for chunked upload with several js providers",
+  "require": {
+    "laravel/framework": "5.*"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Ruslone\\Laravel\\ChunkUpload\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vladislav Nazarov",
+      "email": "megabotua@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
